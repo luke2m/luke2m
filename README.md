@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/luke2m?template=classic&isocalendar=1&languages=1&followup=1&activity=1&notable=1&achievements=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=https%3A%2F%2Flukesempire.com&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FNew_York)
+![Metrics](github-metrics.svg)
